@@ -1,0 +1,9 @@
+
+{
+  "title": "Snake Classic",
+  "description": "Een klassiek Snake-spel met obstakels, verschillende slangen en een highscore.",
+  "version": "1.0",
+  "category": "Games",
+  "image": "",
+  "download": "https://github.com/sltree/sill-project-vault"
+}
